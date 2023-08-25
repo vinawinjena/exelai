@@ -1,4 +1,4 @@
-FROM gcr.io/deeplearning-platform-release/tf2-cpu.2-9:m109
+FROM gcr.io/deeplearning-platform-release/tf-cpu.2-7:latest
 WORKDIR /
 # Installs hypertune library
 RUN pip install cloudml-hypertune
